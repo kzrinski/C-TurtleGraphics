@@ -1,0 +1,8 @@
+fg xx
+draw currAngle
+rotate 270
+draw 10
+PATTERN \t
+move 20
+draw 32
+draw hello
